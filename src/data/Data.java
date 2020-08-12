@@ -23,4 +23,12 @@ public class Data {
             print("rectangle");
         }
     }
+
+    public static class Square implements Shape {
+
+        @Override
+        public void draw() {
+            print("square");
+        }
+    }
 }
