@@ -6,6 +6,7 @@ import static data.Data.*;
 
 public class Data {
 
+    // hide the logic of shape creation
     public static class ShapeFactory {
 
         public Shape getShape(String shapeType) {
