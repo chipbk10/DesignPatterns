@@ -2,3 +2,4 @@
 
 #### Singleton
 #### Decorator
+#### Factory
