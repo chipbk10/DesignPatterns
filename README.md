@@ -1,1 +1,4 @@
 # DesignPatterns
+
+#### Singleton
+#### Decorator
