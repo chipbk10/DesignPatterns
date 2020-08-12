@@ -1,6 +1,8 @@
 package decorator;
 
-import decorator.Data.*;
+import data.Data.*;
+
+import static decorator.Data.*;
 import static lib.Printer.*;
 
 public class Delegate implements DataSource, Behaviour {
@@ -11,7 +13,7 @@ public class Delegate implements DataSource, Behaviour {
     }
 
     @Override
-    public Data.Shape shapeAtIndex(int index) {
+    public Shape shapeAtIndex(int index) {
         switch (index) {
             case 0: return new Rectangle();
             case 1: return new Circle();

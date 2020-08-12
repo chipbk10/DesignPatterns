@@ -1,30 +1,10 @@
 package decorator;
 
-import lib.Printer;
-
-import static lib.Printer.*;
+import static data.Data.*;
+import static lib.Printer.newLine;
+import static lib.Printer.print;
 
 public class Data {
-
-    public interface Shape {
-        void draw();
-    }
-
-    public static class Circle implements Shape {
-
-        @Override
-        public void draw() {
-            print("circle");
-        }
-    }
-
-    public static class Rectangle implements Shape {
-
-        @Override
-        public void draw() {
-            print("rectangle");
-        }
-    }
 
     // Decorate a shape with color
     public static class ShapeWithColor implements Shape {

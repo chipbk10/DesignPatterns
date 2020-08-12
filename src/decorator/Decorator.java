@@ -2,6 +2,7 @@ package decorator;
 
 import lib.Printer;
 
+import static data.Data.*;
 import static decorator.Data.*;
 
 public class Decorator {
