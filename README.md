@@ -3,3 +3,4 @@
 #### Singleton
 #### Decorator, Delegation
 #### Factory, Abstract Factory
+#### Builder
