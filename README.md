@@ -1,5 +1,5 @@
 # DesignPatterns
 
 #### Singleton
-#### Decorator
-#### Factory
+#### Decorator, Delegation
+#### Factory, Abstract Factory
