@@ -5,7 +5,7 @@ import data.Data.*;
 import static decorator.Data.*;
 import static lib.Printer.*;
 
-public class Delegate implements DataSource, Behaviour {
+public class DelegateExample implements DataSource, Behaviour {
 
     @Override
     public int numberOfShapes() {
@@ -35,7 +35,7 @@ public class Delegate implements DataSource, Behaviour {
     }
 
     public static void run() {
-        Delegate delegate = new Delegate();
+        DelegateExample delegate = new DelegateExample();
         Storage storage = new Storage();
         storage.behaviourDelegate = delegate;
         storage.dataSourceDelegate = delegate;

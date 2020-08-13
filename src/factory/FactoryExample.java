@@ -3,7 +3,7 @@ package factory;
 import data.Data.Shape;
 import factory.Data.ShapeFactory;
 
-public class Factory {
+public class FactoryExample {
 
     public static void run() {
 

@@ -1,8 +1,8 @@
-import decorator.Delegate;
+import builder.Example;
 
 public class Main {
 
     public static void main(String[] args) {
-        Delegate.run();
+        Example.run();
     }
 }

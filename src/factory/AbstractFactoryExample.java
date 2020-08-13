@@ -3,7 +3,7 @@ package factory;
 import static data.Data.*;
 import static factory.Data.*;
 
-public class AbstractFactory {
+public class AbstractFactoryExample {
 
     public static void run() {
 

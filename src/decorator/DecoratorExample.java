@@ -5,7 +5,7 @@ import lib.Printer;
 import static data.Data.*;
 import static decorator.Data.*;
 
-public class Decorator {
+public class DecoratorExample {
 
     public static void run() {
         Shape rectangle = new Rectangle();
