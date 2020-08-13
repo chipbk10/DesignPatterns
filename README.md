@@ -1,6 +1,6 @@
 # DesignPatterns
 
-#### Singleton
-#### Decorator, Delegation
-#### Factory, Abstract Factory
-#### Builder
+#### [Singleton](https://github.com/chipbk10/DesignPatterns/tree/master/src/singleton)
+#### [Decorator](https://github.com/chipbk10/DesignPatterns/tree/master/src/decorator), [Delegation](https://github.com/chipbk10/DesignPatterns/tree/master/src/decorator)
+#### [Factory](https://github.com/chipbk10/DesignPatterns/tree/master/src/factory), [Abstract Factory](https://github.com/chipbk10/DesignPatterns/tree/master/src/factory)
+#### [Builder](https://github.com/chipbk10/DesignPatterns/tree/master/src/builder)
