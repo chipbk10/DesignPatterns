@@ -35,7 +35,7 @@ public class Data {
     }
 
     // Storage contains a list of shapes.
-    // but info about how to create the list, he doesn't know. He asks delegate.
+    // but getDetails about how to create the list, he doesn't know. He asks delegate.
     // behavior when interact on each element, he doesn't know either. Again, he asks delegate.
     // This way: we can separate datasource and behaviour logics out of storage.
     public static class Storage {
