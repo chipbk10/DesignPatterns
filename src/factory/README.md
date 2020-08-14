@@ -5,3 +5,7 @@
 ### Abstract Factory Pattern
 
 - provides an interface for creating families of related or dependent objects without specifying their concrete classes
+
+### Dependency Injection
+
+- [Dependency Injection Myth: Reference Passing](https://bit.ly/3kLoWK3)
