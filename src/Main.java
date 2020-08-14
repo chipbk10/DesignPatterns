@@ -1,4 +1,4 @@
-import strategy.Example;
+import chainOfResponsibility.Example;
 
 public class Main {
 
