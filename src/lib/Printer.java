@@ -30,6 +30,24 @@ public class Printer {
         print(s, "");
     }
 
+    public static void print(boolean b) {
+        print(b, "");
+    }
+
+    public static void println(boolean b) {
+        println(b, "");
+    }
+
+    public static void print(boolean b, String separator) {
+        String s = b ? "true" : "false";
+        print(s, separator);
+    }
+
+    public static void println(boolean b, String separator) {
+        String s = b ? "true" : "false";
+        println(s, separator);
+    }
+
     public static void print(String s, String separator) {
         System.out.print(s + separator);
     }
