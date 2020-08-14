@@ -5,6 +5,7 @@
 #### [Factory](https://github.com/chipbk10/DesignPatterns/tree/master/src/factory), [Abstract Factory](https://github.com/chipbk10/DesignPatterns/tree/master/src/factory)
 #### [Builder](https://github.com/chipbk10/DesignPatterns/tree/master/src/builder)
 #### [Strategy](https://github.com/chipbk10/DesignPatterns/tree/master/src/strategy)
+#### [Chain Of Responsibility](https://github.com/chipbk10/DesignPatterns/tree/master/src/chainOfResponsibility)
 
 ### Interview
 
