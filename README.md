@@ -8,6 +8,7 @@
 #### [Chain Of Responsibility](https://github.com/chipbk10/DesignPatterns/tree/master/src/chainOfResponsibility)
 #### [Observer](https://github.com/chipbk10/DesignPatterns/tree/master/src/observer), [EventBus](https://github.com/chipbk10/DesignPatterns/tree/master/src/observer)
 #### [Proxy](https://github.com/chipbk10/DesignPatterns/tree/master/src/proxy)
+#### [Adapter](https://github.com/chipbk10/DesignPatterns/tree/master/src/adapter)
 
 ### Interview
 

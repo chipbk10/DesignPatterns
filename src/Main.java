@@ -1,4 +1,4 @@
-import proxy.Example;
+import adapter.Example;
 
 public class Main {
 
