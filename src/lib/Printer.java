@@ -74,7 +74,7 @@ public class Printer {
     }
 
     public static void println(int a, String s) {
-        println(a + s);
+        print(a + s);
         newLine();
     }
 
