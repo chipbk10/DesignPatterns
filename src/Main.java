@@ -1,10 +1,10 @@
-import observer.EventBusExample;
+import proxy.Example;
 
 public class Main {
 
     public static void main(String[] args) {
         System.out.println("DESIGN PATTERNS\n\n");
 
-        EventBusExample.run();
+        Example.run();
     }
 }
