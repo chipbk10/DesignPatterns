@@ -1,4 +1,4 @@
-import adapter.Example;
+import command.Example;
 
 public class Main {
 
