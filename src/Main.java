@@ -1,4 +1,4 @@
-import iterator.Example;
+import memento.Example;
 
 public class Main {
 
