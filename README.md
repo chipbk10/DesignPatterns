@@ -1,4 +1,4 @@
-# DesignPatterns
+# Design Patterns
 
 #### [Singleton](https://github.com/chipbk10/DesignPatterns/tree/master/src/singleton)
 #### [Decorator](https://github.com/chipbk10/DesignPatterns/tree/master/src/decorator), [Delegation](https://github.com/chipbk10/DesignPatterns/tree/master/src/decorator)

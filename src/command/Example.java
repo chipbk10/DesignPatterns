@@ -2,12 +2,11 @@ package command;
 
 import static command.CommandData.*;
 import static command.DeviceData.*;
-import static command.RemoteControlData.*;
+import static command.RemoteControlData.RemoteControl;
 
 public class Example {
 
     public static void run() {
-
         Light light = new Light();
         Radio radio = new Radio();
         AirConditioner airConditioner = new AirConditioner();
