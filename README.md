@@ -11,6 +11,11 @@
 #### [Adapter](https://github.com/chipbk10/DesignPatterns/tree/master/src/adapter)
 #### [Command](https://github.com/chipbk10/DesignPatterns/tree/master/src/command)
 
+### Reference
+
+#### [Refactoring Guru](https://refactoring.guru/design-patterns)
+#### [Head First Design Patterns]()
+
 ### Interview
 
 #### [Questions && Answers](https://bit.ly/2XXQ5Qw)
