@@ -1,4 +1,4 @@
-import command.Example;
+import iterator.Example;
 
 public class Main {
 
