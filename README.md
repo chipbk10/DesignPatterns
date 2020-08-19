@@ -14,7 +14,7 @@
 #### [Memento](https://github.com/chipbk10/DesignPatterns/tree/master/src/memento)
 
 ### Todo
-### [Dependency Injection && IoC](https://github.com/chipbk10/DesignPatterns/tree/master/src/di)
+#### [Dependency Injection && IoC](https://github.com/chipbk10/DesignPatterns/tree/master/src/di)
 
 ### Reference
 
