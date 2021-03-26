@@ -8,4 +8,5 @@
 
 ### Dependency Injection
 
+- allows the creation of dependent objects outside of the class and provides those objects to the class through different ways (constructors, setter methods)
 - [Dependency Injection Myth: Reference Passing](https://bit.ly/3kLoWK3)
